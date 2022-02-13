@@ -38,7 +38,7 @@
     "@types/jest": "^24.0.11",
     "@types/mocha": "2.2.38",
     "@types/react-test-renderer": "^16.8.1",
-    "ajv": "~5.2.2",
+    "ajv": "~6.12.3",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "enzyme-to-json": "^3.3.5",
